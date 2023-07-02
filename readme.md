@@ -28,7 +28,7 @@ Assuming macOS 12 or so.
 
 Then in VS Code:
 
-- `>Python: Select Interpreter`
+- ⇧⌘P `>Python: Select Interpreter`
   - Refresh, then add if not found
 
 ### Pyenv
@@ -62,10 +62,20 @@ fi
 - rm -rf myvenv
 
 Or in VS Code:
-- `>Python: Create Environment…`
+
+- ⇧⌘P `>Python: Create Environment…`
 
 ### poetry
 
 - brew install poetry
 - poetry new foo
 
+## VS Code
+
+- Open the project folder
+- Open a python file
+- ⇧⌘P `>Python: Select Interpreter` or `>Python: Create Environment…`
+- ⇧↩︎ = ⇧⌘P `Python: Run Selection/Line in Python Terminal`
+  - REPL-driven development?
+- Set Type Checking Mode to strict in Python Analysis settings
+- Make a debug launcher
