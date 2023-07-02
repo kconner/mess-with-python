@@ -10,14 +10,14 @@ Assuming macOS 12 or so.
   - Python extension
   - Jupyter extension
 
-## Python
+## Interpreters
 
-### One version
+### One interpreter
 
 - brew install python
 - python3
 
-### Many versions
+### Many interpreters
 
 - brew install python@3.11
 - brew install python@3.10
@@ -31,7 +31,7 @@ Then in VS Code:
 - ⇧⌘P `>Python: Select Interpreter`
   - Refresh, then add if not found
 
-### Pyenv
+### Alternative: Pyenv
 
 - brew install pyenv
 
@@ -59,16 +59,33 @@ fi
 - which python3
 - python3 --version
 - deactivate
-- rm -rf myvenv
+- rm -r myvenv
 
 Or in VS Code:
 
 - ⇧⌘P `>Python: Create Environment…`
 
-### poetry
+Don't commit a virtual environment.
+
+### Alternative: poetry
 
 - brew install poetry
 - poetry new foo
+
+## Packages
+
+- pip install beep-boop-test
+- pip freeze > requirements.txt
+
+To recall them later:
+
+- pip install -r requirements.txt
+
+To upgrade:
+
+- pip list --outdated
+- pip install --upgrade beep-boop-test
+- (Freeze again)
 
 ## VS Code
 
@@ -77,5 +94,5 @@ Or in VS Code:
 - ⇧⌘P `>Python: Select Interpreter` or `>Python: Create Environment…`
 - ⇧↩︎ = ⇧⌘P `Python: Run Selection/Line in Python Terminal`
   - REPL-driven development?
-- Set Type Checking Mode to strict in Python Analysis settings
+- Set Type Checking Mode to basic in Python Analysis settings
 - Make a debug launcher

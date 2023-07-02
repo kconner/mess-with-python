@@ -1,3 +1,7 @@
+import beeptest.booptest
+
+beeptest.booptest.beep()
+
 message = "hello, world"
 count = 3
 # This fails at runtime. Four ways to find out:
