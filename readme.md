@@ -94,5 +94,7 @@ To upgrade:
 - ⇧⌘P `>Python: Select Interpreter` or `>Python: Create Environment…`
 - ⇧↩︎ = ⇧⌘P `Python: Run Selection/Line in Python Terminal`
   - REPL-driven development?
-- Set Type Checking Mode to basic in Python Analysis settings
+- Python › Analysis settings
+  - Enable Auto Import Completions
+  - Set Type Checking Mode to basic
 - Make a debug launcher
