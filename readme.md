@@ -87,10 +87,18 @@ To upgrade:
 - pip install --upgrade beep-boop-test
 - (Freeze again)
 
+## Jupyter
+
+- pip install jupyter
+- jupyter notebook
+
+- pip install jupyterlab
+- jupyter lab
+
 ## VS Code
 
 - Open the project folder
-- Open a python file
+- Open a .py file
 - ⇧⌘P `>Python: Select Interpreter` or `>Python: Create Environment…`
 - ⇧↩︎ = ⇧⌘P `Python: Run Selection/Line in Python Terminal`
   - REPL-driven development?
@@ -98,3 +106,6 @@ To upgrade:
   - Enable Auto Import Completions
   - Set Type Checking Mode to basic
 - Make a debug launcher
+- Open an .ipynb file
+  - `>Notebook: …`
+- ⇧⌘P `>Jupyter: Create Interactive Window`

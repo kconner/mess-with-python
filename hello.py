@@ -11,3 +11,6 @@ count = 3
 # - Exception in console
 cat = message + count
 print(cat)
+
+# %%
+print("A code cell")
