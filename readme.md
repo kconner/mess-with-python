@@ -1,9 +1,43 @@
 # mess-with-python
 
-Assuming macOS 12 or so.
+## Study path
+
+- [The Hitchhiker's Guide to Python!](https://docs.python-guide.org)
+- Interpreter versions
+  - [How can I install multiple versions of Python on latest OS X and use them in parallel?](https://stackoverflow.com/a/65094122/10906) (2020)
+  - [pyenv/pyenv: Simple Python version management](https://github.com/pyenv/pyenv)
+- [Using Python Environments in Visual Studio Code](https://code.visualstudio.com/docs/python/environments)
+  - [venv — Creation of virtual environments](https://docs.python.org/3/library/venv.html)
+    - [If this project is dead, just tell us](https://github.com/pypa/pipenv/issues/4058) (2019)
+    - [poetry](https://github.com/python-poetry/poetry)
+  - [Conda](https://docs.conda.io/en/latest/index.html)
+    - [Anaconda or Miniconda?](https://docs.conda.io/projects/conda/en/stable/user-guide/install/download.html#anaconda-or-miniconda)
+    - [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+- [PyPI · The Python Package Index](https://pypi.org/)
+- [Python (programming language)](https://en.wikipedia.org/wiki/Python_(programming_language))
+  - Interpreters
+    - [CPython](https://en.wikipedia.org/wiki/CPython)
+      - [GlobalInterpreterLock](https://wiki.python.org/moin/GlobalInterpreterLock)
+    - [PyPy](https://en.wikipedia.org/wiki/PyPy)
+      - [Tracing just-in-time compilation](https://en.wikipedia.org/wiki/Tracing_just-in-time_compilation)
+    - [Stackless Python](https://en.wikipedia.org/wiki/Stackless_Python)
+      - [Microthread](https://en.wikipedia.org/wiki/Microthread)
+    - [MicroPython](https://en.wikipedia.org/wiki/MicroPython)
+    - [CircuitPython](https://en.wikipedia.org/wiki/CircuitPython)
+    - [IronPython](https://en.wikipedia.org/wiki/IronPython)
+      - [Dynamic Language Runtime](https://en.wikipedia.org/wiki/Dynamic_Language_Runtime)
+    - [Jython](https://en.wikipedia.org/wiki/Jython)
+  - Dialects
+    - [Cython](https://en.wikipedia.org/wiki/Cython)
+    - [RPython](https://en.wikipedia.org/wiki/PyPy#RPython)
+    - [Mojo](https://en.wikipedia.org/wiki/Mojo_(programming_language))
+- [Project Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)
+  - [Jupyter and the future of IPython](https://ipython.org/)
+- [Doing Data Science in Visual Studio Code](https://code.visualstudio.com/docs/datascience/overview)
 
 ## Prerequisites
 
+- macOS 12 or so
 - Install Xcode or Command Line Tools
 - Install Homebrew
 - Install VS Code
@@ -91,7 +125,6 @@ To upgrade:
 
 - pip install jupyter
 - jupyter notebook
-
 - pip install jupyterlab
 - jupyter lab
 
