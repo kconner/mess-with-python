@@ -29,6 +29,7 @@
     - [Jython](https://en.wikipedia.org/wiki/Jython)
   - Dialects
     - [Cython](https://en.wikipedia.org/wiki/Cython)
+      - [Using in IPython/Jupyter notebook](https://en.wikipedia.org/wiki/Cython#Using_in_IPython/Jupyter_notebook)
     - [RPython](https://en.wikipedia.org/wiki/PyPy#RPython)
     - [Mojo](https://en.wikipedia.org/wiki/Mojo_(programming_language))
 - [Project Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)
