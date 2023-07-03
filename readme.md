@@ -152,3 +152,30 @@ To upgrade:
 - Open an .ipynb file
   - `>Notebook: …`
 - ⇧⌘P `>Jupyter: Create Interactive Window`
+
+## Conda
+
+Install:
+
+- brew install conda
+- brew install conda-zsh-completion
+- conda init zsh # or whatever shell
+- Start a new tab
+
+Use it:
+
+- ⇧⌘P `>Python: Create Environment…`
+- conda activate \`pwd\`/.conda
+- conda install jupyter
+- which jupyter
+- conda env export > environment.yml
+- conda deactivate
+- rm -r .conda
+- ⇧⌘P `>Python: Create Environment…`
+- conda activate example
+- which jupyter
+
+To remove Conda:
+
+- conda init --reverse zsh
+- brew uninstall conda conda-zsh-completion
