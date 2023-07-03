@@ -32,8 +32,16 @@
       - [Using in IPython/Jupyter notebook](https://en.wikipedia.org/wiki/Cython#Using_in_IPython/Jupyter_notebook)
     - [RPython](https://en.wikipedia.org/wiki/PyPy#RPython)
     - [Mojo](https://en.wikipedia.org/wiki/Mojo_(programming_language))
+      - [Why Mojo🔥](https://docs.modular.com/mojo/why-mojo.html)
 - [Project Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter)
-  - [Jupyter and the future of IPython](https://ipython.org/)
+  - [IPython](https://en.wikipedia.org/wiki/IPython)
+  - [Matplotlib](https://en.wikipedia.org/wiki/Matplotlib)
+  - [NumPy](https://en.wikipedia.org/wiki/NumPy)
+    - [Numba](https://en.wikipedia.org/wiki/Numba)
+  - [pandas](https://en.wikipedia.org/wiki/Pandas_(software))
+  - [The Scientific Paper Is Obsolete. Here's What's Next. - The Atlantic](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) (2018) ([archive](https://archive.is/4l509))
+    - [Jupyter, Mathematica, and the Future of the Research Paper](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/) (2018)
+  - [mwouts/jupytext](https://github.com/mwouts/jupytext)
 - [Doing Data Science in Visual Studio Code](https://code.visualstudio.com/docs/datascience/overview)
 
 ## Prerequisites
@@ -126,6 +134,7 @@ To upgrade:
 
 - pip install jupyter
 - jupyter notebook
+- ipython
 - pip install jupyterlab
 - jupyter lab
 
