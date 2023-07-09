@@ -2,6 +2,7 @@
 
 ## Study path
 
+- [ChatGPT Explained Completely.](https://www.youtube.com/watch?v=-4Oso9-9KTQ) (2023)
 - [The Hitchhiker's Guide to Python!](https://docs.python-guide.org)
 - Interpreter versions
   - [How can I install multiple versions of Python on latest OS X and use them in parallel?](https://stackoverflow.com/a/65094122/10906) (2020)
@@ -13,6 +14,14 @@
   - [Conda](https://docs.conda.io/en/latest/index.html)
     - [Anaconda or Miniconda?](https://docs.conda.io/projects/conda/en/stable/user-guide/install/download.html#anaconda-or-miniconda)
     - [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+- [The Long Story of How Neural Nets Got to Where They Are: A Conversation with Terry Sejnowski](https://www.youtube.com/watch?v=XKC-4Tosdd8) (2023)
+  - [Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent)
+  - [Hopfield network](https://en.wikipedia.org/wiki/Hopfield_network)
+  - [Boltzmann machine](https://en.wikipedia.org/wiki/Boltzmann_machine)
+  - [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
+  - [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
+  - [Control theory](https://en.wikipedia.org/wiki/Control_theory)
+  - [Knowledge distillation](https://en.wikipedia.org/wiki/Knowledge_distillation)
 - [PyPI · The Python Package Index](https://pypi.org/)
 - [Python (programming language)](https://en.wikipedia.org/wiki/Python_(programming_language))
   - Interpreters
