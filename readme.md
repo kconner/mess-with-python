@@ -52,6 +52,7 @@
     - [Jupyter, Mathematica, and the Future of the Research Paper](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/) (2018)
   - [mwouts/jupytext](https://github.com/mwouts/jupytext)
 - [Doing Data Science in Visual Studio Code](https://code.visualstudio.com/docs/datascience/overview)
+- [What's New in Python](https://docs.python.org/3/whatsnew/index.html)
 
 ## Prerequisites
 
