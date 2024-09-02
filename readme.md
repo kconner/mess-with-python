@@ -53,6 +53,8 @@
   - [mwouts/jupytext](https://github.com/mwouts/jupytext)
 - [Doing Data Science in Visual Studio Code](https://code.visualstudio.com/docs/datascience/overview)
 - [What's New in Python](https://docs.python.org/3/whatsnew/index.html)
+- [The History of Python](https://python-history.blogspot.com) (all posts)
+  - [Introduction and Overview](https://python-history.blogspot.com/2009/01/introduction-and-overview.html) (2009)
 
 ## Prerequisites
 
