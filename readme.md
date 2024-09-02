@@ -55,6 +55,7 @@
 - [What's New in Python](https://docs.python.org/3/whatsnew/index.html)
 - [The History of Python](https://python-history.blogspot.com) (all posts)
   - [Introduction and Overview](https://python-history.blogspot.com/2009/01/introduction-and-overview.html) (2009)
+  - [PEP 20 – The Zen of Python](https://peps.python.org/pep-0020/) (2004)
 
 ## Prerequisites
 
